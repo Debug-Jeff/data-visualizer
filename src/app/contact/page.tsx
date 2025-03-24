@@ -101,7 +101,7 @@ export default function ContactPage() {
                 <CardHeader>
                   <CardTitle>Send us a message</CardTitle>
                   <CardDescription>
-                    Fill out the form below and we'll get back to you as soon as possible.
+                    Fill out the form below and we will get back to you as soon as possible.
                   </CardDescription>
                 </CardHeader>
                 
@@ -183,7 +183,7 @@ export default function ContactPage() {
                 <CardHeader>
                   <CardTitle>Contact Information</CardTitle>
                   <CardDescription>
-                    Here's how you can reach us
+                    Reach us via
                   </CardDescription>
                 </CardHeader>
                 
